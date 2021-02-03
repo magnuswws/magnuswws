@@ -1,3 +1,1 @@
-Naujo failo komentaras.
-Dar pakeitimų.
-Pabandymas su branchais.
+Naujas komentaras testing branche. Ir papildymas main branche. Dar vienas papildumas main branche ir paskui padarytas commitas.
