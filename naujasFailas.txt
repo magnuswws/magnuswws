@@ -1,1 +1,2 @@
-Pratryniau viską.
+<<<<<<< HEAD
+Pratryniau viską, bet neatstačiau.
